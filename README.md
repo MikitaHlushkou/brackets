@@ -1,5 +1,5 @@
 # Event Loop presentation
-A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://revealjs.com/).
+## Linkks:
 
 1) [link to youtube](https://www.youtube.com/watch?v=HvC8RUdZ1Qo&feature=youtu.be);
 2) [link to presentation](https://presentation-event-loop.netlify.com);
