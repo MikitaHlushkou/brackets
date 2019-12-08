@@ -1,8 +1,10 @@
 # Event Loop presentation
-## Linkks:
+## Links:
 
 1) [link to youtube](https://www.youtube.com/watch?v=HvC8RUdZ1Qo&feature=youtu.be);
 2) [link to presentation](https://presentation-event-loop.netlify.com);
+3) Additional comment: transcript of presentation available as speaker notes ( click keybind "S" on [presentation](https://presentation-event-loop.netlify.com)).
+
 
 
 
